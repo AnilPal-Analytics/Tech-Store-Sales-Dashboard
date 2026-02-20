@@ -36,7 +36,7 @@ The primary objective of this project is to demonstrate:
 - Understanding of business metrics and performance tracking  
 
 ## 📷 Dashboard Preview
-(Add your dashboard screenshot here)
+
 
 ## 📚 Learning Outcome
 Through this project, I strengthened my skills in:
