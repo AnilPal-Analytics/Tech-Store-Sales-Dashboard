@@ -36,7 +36,7 @@ The primary objective of this project is to demonstrate:
 - Understanding of business metrics and performance tracking  
 
 ## 📷 Dashboard Preview
-"C:\Users\Anil pal\Pictures\Screenshots\Screenshot 2026-02-20 211332.png"
+https://github.com/AnilPal-Analytics/Tech-Store-Sales-Dashboard/blob/main/Screenshot%202026-02-20%20211332.png
 
 ## 📚 Learning Outcome
 Through this project, I strengthened my skills in:
